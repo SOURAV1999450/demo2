@@ -1,2 +1,2 @@
 # demo2
-print("hellow")
+print("hellow");
